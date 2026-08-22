@@ -1,0 +1,8 @@
+backend/.venv
+backend/.env
+backend/app/services/__pycache__
+backend/app/schemas/__pycache__
+backend/app/routes/__pycache__
+backend/app/middleware/__pycache__
+backend/app/__pycache__
+.env

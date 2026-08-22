@@ -1,0 +1,29 @@
+Access Token
+
+eyJhbGciOiJFUzI1NiIsImtpZCI6IjgzYWQ0YjZjLTMxNzEtNDg5YS1hZjU5LTAyMTM5YWY4ZGE2MCIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3R6ZnJ1b2NieWxhbHhxcmdqemRnLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiIxYWViZWJmYS00ZjgxLTQ3YTktYWFlOC02OWQ3MTI1YmZmMWEiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzg3NDA2NTgxLCJpYXQiOjE3ODc0MDI5ODEsImVtYWlsIjoiY29tbXVuaXR5QGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZW1haWxfdmVyaWZpZWQiOnRydWV9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzg3NDAyOTgxfV0sInNlc3Npb25faWQiOiI3MmFjZDYwNS1iMTNkLTQ5MGQtODY1Ny1jNjUwYmEwNDZkMWEiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.OYMkzh9S5O6XkWYbEDI2AU4VXxArbVItedv5Rbo3GKlMYRH2-0YuLCkLyNnUH34Kk2g9ivurX6fpVex6kYUXlA
+
+
+To start back end use
+
+Passwords
+community@gmail.com :  11223344
+eva@gmail.com :  237237
+organization
+
+comment id
+be4ad481-c9a2-4acb-b27b-9a0606e73f31
+
+to start the backend use 
+uvicorn app.main:app --reload
+
+
+Anytime i work to pull
+cd D:\FIXIT
+git switch THIARA
+git pull origin THIARA
+
+To push
+git status
+git add .
+git commit -m "Describe what you changed"
+git push origin THIARA
