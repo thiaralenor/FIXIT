@@ -6,3 +6,4 @@ backend/app/routes/__pycache__
 backend/app/middleware/__pycache__
 backend/app/__pycache__
 .env
+backend/README.md

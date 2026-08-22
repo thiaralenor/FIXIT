@@ -5,7 +5,10 @@ from app.routes import (
     problems,
     tasks,
     comments,
-    notifications
+    notifications,
+    likes,
+    reposts,
+    shares
 )
 
 
@@ -21,6 +24,9 @@ app.include_router(problems.router)
 app.include_router(tasks.router)
 app.include_router(comments.router)
 app.include_router(notifications.router)
+app.include_router(likes.router)
+app.include_router(reposts.router)
+app.include_router(shares.router)
 
 
 @app.get("/")
